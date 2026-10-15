@@ -1,0 +1,165 @@
+{
+  "name": "BlossomRose — Native Light",
+  "description": "Blossom pink surfaces layered over Discord native Light mode defaults. Sparse overrides intentionally preserve native dark text and icons.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "BlossomRose",
+      "id": "183251375193456643"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "rgba(220, 105, 160, 0.18)"
+    ],
+    "CHAT_BACKGROUND": [
+      "#FFFCFE"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#E78BB8"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#FFF7FB"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FFF9FC"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#F8EDF3"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#FFFCFE"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#FFF5FA"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FBEAF3"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#F4E2EC"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#FFFFFF"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#FFFCFE"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#FFF5FA"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#F8EAF2"
+    ],
+    "HOME_BACKGROUND": [
+      "#FFF5FA"
+    ],
+    "BORDER_FAINT": [
+      "rgba(190, 105, 151, 0.10)"
+    ],
+    "BORDER_SUBTLE": [
+      "rgba(190, 105, 151, 0.18)"
+    ],
+    "BORDER_STRONG": [
+      "rgba(190, 105, 151, 0.30)"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#FFF9FC"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#FBEAF3"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#FFF4F9"
+    ],
+    "EMBED_BACKGROUND": [
+      "#FFF5FA"
+    ],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+      "#FCE7F1"
+    ],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": [
+      "#F8DCEB"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(221, 116, 166, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(190, 105, 151, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(190, 105, 151, 0.14)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(190, 105, 151, 0.07)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(221, 116, 166, 0.17)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(221, 116, 166, 0.10)"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "rgba(221, 116, 166, 0.12)"
+    ],
+    "MENTION_BACKGROUND": [
+      "rgba(221, 116, 166, 0.12)"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#FFF4F9"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#FFF5FA"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#F8E5EF"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#F8EAF2"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#F4E2EC"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "rgba(190, 105, 151, 0.22)"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#F1E4EB"
+    ]
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#D96FA5",
+    "icons": {
+      "ic_new_pins": "#D96FA5",
+      "StatusStreaming": "#8B78D1",
+      "StatusMobileOnline": "#55A879",
+      "StatusIdle": "#D8A34D",
+      "StatusDND": "#D96F83",
+      "StatusOffline": "#9B8D98",
+      "StatusOnline": "#55A879"
+    }
+  },
+  "spec": 2
+}
